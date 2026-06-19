@@ -511,8 +511,6 @@ for _ in range(10):
 - [atan2 三角函数](https://en.wikipedia.org/wiki/Atan2)
 - [EMA 滤波](https://en.wikipedia.org/wiki/Exponential_smoothing)
 
----
 
-**版本**: v1.0
-**最后更新**: 2025
-**维护者**: 课程设计项目组
+
+
